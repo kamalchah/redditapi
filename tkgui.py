@@ -3,7 +3,7 @@ import praw
 import tkinter as tk
 import RedditPraw as rapi
 
-print("======================================================")
+print("\n=================")
 subreddits = [
     ("CarletonU",0),
     ("Python",1),

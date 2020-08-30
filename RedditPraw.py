@@ -21,7 +21,7 @@ def redditAPI(subr, sortby, Limit):
     for submission in hot_python:
         if not submission.stickied:
             print("\n=================")
-            print("ANAME: " + str(submission.author.name))
+            print("Poster Name: " + str(submission.author.name))
             print("Post karma: " + str(submission.author.link_karma))
             print("Comment Karma: " + str(submission.author.comment_karma))
             print("Title: " + str(submission.title))
