@@ -1,4 +1,4 @@
-# redditapi
+# Reddit API Project
 This project makes use of the reddit API wrapper PRAW and pythons Tkinter library as a frontend presentation to choose which data you want to see.
 Using the reddit API, we can observe data such as subreddits posts', their authors username, karma, comments on the post and much more.
 
